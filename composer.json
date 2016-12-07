@@ -1,0 +1,17 @@
+{
+    "name": "ganlvtech/kcaptcha",
+    "description": "KCAPTCHA for composer",
+    "license": "KCAPTCHA",
+    "authors": [
+        {
+            "name": "ganlv",
+            "email": "ganlvtech@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KCAPTCHA\\": "./"
+        }
+    }
+}
