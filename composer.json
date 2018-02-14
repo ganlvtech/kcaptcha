@@ -1,7 +1,7 @@
 {
     "name": "ganlvtech/kcaptcha",
     "description": "KCAPTCHA for composer",
-    "license": "KCAPTCHA",
+    "license": "MIT",
     "authors": [
         {
             "name": "ganlv",
